@@ -21,16 +21,16 @@ Düzce Fen Lisesi ve BİLSEM öğrencisi, DENEYAP Teknoloji Atölyeleri mezunuyu
 
 ## Seçili projeler
 
-### JARVIS
+### [JARVIS](https://github.com/AKKSYkardes/JARVIS)
 
 Projelerimi ve çalışma bağlamımı zaman içinde hatırlayabilen, kullandığı kaynakları izleyebilen ve kritik işlemlerde insan onayı isteyen kişisel bir yapay zekâ sistemi. Çekirdek mimariyi ve kalıcı hafıza katmanını adım adım geliştiriyorum.
 
-### Iron Man kaskı ve kolu
+### [Iron Man kaskı ve kolu](https://github.com/AKKSYkardes/iron-man-helmet-arm)
 
 3D baskılı mekanik parçalar, hareket kontrolü, sensörler, ışık ve ses bileşenlerinden oluşacak giyilebilir bir sistem. Depoda yalnızca paylaşma hakkına sahip olduğum dosyalar, kendi kodum ve yapım süreci bulunacak.
 
 ## İletişim
 
 - GitHub: [@AKKSYkardes](https://github.com/AKKSYkardes)
-
+- Portföy: [akksykardes.github.io](https://akksykardes.github.io)
 
